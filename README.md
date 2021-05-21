@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @judeimuede
-- 👀 I’m interested in research in a multi-cloud space
+- 👀 I’m interested in Research in a Multi-cloud Space
 - 🌱 I’m currently learning Operations in Cloud Engineering
-- 💞️ I’m looking to collaborate on complex use cases for Road Traffic Congestion
+- 💞️ I’m looking to collaborate on Complex use cases for Road Traffic Congestion
 - 📫 How to reach me... judeimuede@gmail.com (Email and Hangout)
 
 <!---
