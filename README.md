@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @judeimuede
-- 👀 I’m interested in researching about road traffic congestion and the applications of AI and ML in this instances.
-- 🌱 I’m currently learning deep learning techniques for solving complex use cases.
-- 💞️ I’m looking to collaborate on Open data for Civic tech challenges.
+- 👀 I’m interested in research in a multi-cloud space
+- 🌱 I’m currently learning Operations in Cloud Engineering
+- 💞️ I’m looking to collaborate on complex use cases for Road Traffic Congestion
 - 📫 How to reach me... judeimuede@gmail.com (Email and Hangout)
 
 <!---
